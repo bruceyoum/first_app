@@ -1,5 +1,8 @@
 == README
 
+# Ruby on Rails: first application
+This is the first Ruby on Rails application for bruce
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
