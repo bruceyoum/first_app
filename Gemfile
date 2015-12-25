@@ -32,12 +32,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-group :production do
-  gem "pg"
-end
 
 group :development, :test do
-  gem "sqlite3", "~> 1.3.0"
+  gem 'byebug'
 end
 
 group :development do
